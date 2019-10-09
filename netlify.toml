@@ -6,9 +6,10 @@
 # “publish” is the directory to publish (relative to the root of your repo).
 
 [build]
+  repostiroy = "github.com/josemariamontero/pelican"
   base    = "site"
-  command = "make"
-  publish = "site/public"
+  command = "pelican"
+  publish = "output"
 
 # Production context: All deploys from the main
 # repository branch will inherit these settings.
