@@ -1,0 +1,11 @@
+--2019-10-09 12:19:28--  https://i1.wp.com/windtux.com/wp-content/uploads/2015/12/debian-logo.png?fit=172%2C185
+Resolviendo i1.wp.com (i1.wp.com)... 192.0.77.2
+Conectando con i1.wp.com (i1.wp.com)[192.0.77.2]:443... conectado.
+Petición HTTP enviada, esperando respuesta... 200 OK
+Longitud: 11935 (12K) [image/png]
+Grabando a: “debian-logo.png?fit=172,185”
+
+          debian-lo   0%[                    ]       0  --.-KB/s               debian-logo.png?fit 100%[===================>]  11,66K  --.-KB/s    en 0s      
+
+2019-10-09 12:19:29 (152 MB/s) - “debian-logo.png?fit=172,185” guardado [11935/11935]
+
